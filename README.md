@@ -1,6 +1,6 @@
 # Image_Cartoon
 
-# project Idea:
+# Project Idea:
 Transform images into its cartoon. we will build a python application that will transform an image into its cartoon using machine learning libraries.
 
 # Solution: 
